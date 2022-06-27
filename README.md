@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I am Erik</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">Data Scientist</h3>
 
 - 🔭 I’m interested in **everything about Data Science & Machine Learning**
 
