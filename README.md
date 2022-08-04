@@ -1,3 +1,8 @@
+
+![image](https://user-images.githubusercontent.com/102191236/182970767-4fe8b279-ba47-465f-b84d-47ca54acc2ff.png)
+
+
+
 <h1 align="center">Hi there👋, I am Erik</h1>
 <h3 align="center">Data Scientist</h3>
 
