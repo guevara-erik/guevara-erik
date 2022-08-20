@@ -1,16 +1,22 @@
+### Hello there!
+Hi, I'm [Erik Guevara](https://www.linkedin.com/in/guevara-erik), I like to explore the benefits and advantages of Machine Learning and, in general, to understand data to extract valuable information. This is a fascinating never-ending learning field, and I am pursuing to get most of it, and if I can help, feel free to contact me; you can also check my repositories; I am open for feedback.
 
-![image](https://user-images.githubusercontent.com/102191236/182970767-4fe8b279-ba47-465f-b84d-47ca54acc2ff.png)
+<a href="https://public.tableau.com/app/profile/erik.guevara">
+  <img align="left" alt="Tableau Portfolio" width="40px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
+</a>
 
+<a href="https://eportfolio.mygreatlearning.com/erik-antonio-guevara-merino">
+  <img align="left" alt="Erik Guevara | Academic ePortfolio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/License_icon-mit.svg/1200px-License_icon-mit.svg.png" />
+</a>
 
+<a href="https://www.linkedin.com/in/guevara-erik">
+  <img align="left" alt="LinkedIn Profile" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-<h1 align="center">Hi there👋, I am Erik</h1>
-<h3 align="center">Data Scientist</h3>
+<br />
+<p>&nbsp;
 
-- 🔭 I’m interested in **everything about Data Science & Machine Learning**
+<p>
+  <img align="center" alt="Erik Working" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🌱 I’m currently learning **Data Science, ML and everything in between**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/guevara-erik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guevara-erik" height="30" width="40" /></a>
-</p>
+<!--END_SECTION:waka-->
